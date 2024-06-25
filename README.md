@@ -15,7 +15,7 @@ But I do not have much time to build the page.
 - E-mail: bankaicn@gmail.com
 - Or submit this [Google form](https://forms.gle/3LyT774mwHGWZLVN8)
 
-### SMS
+### SNS
 - [Twitter](https://twitter.com/wujiaoshuiduole): @wujiaoshuiduole
 - [Github](https://github.com/nab-iak): @nab-iak
 - Discord: st.opo
